@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'fluentd', '~>1.0.0'
+gem 'activesupport', '~>4.2.6'
+gem 'fluent-plugin-kubernetes_metadata_filter', '~>0.27.0'
+gem 'fluent-plugin-elasticsearch', '~>2.4.0'
+gem 'fluent-plugin-systemd', '~>0.3.1'
+gem 'fluent-plugin-prometheus', '~>0.3.0'
+gem 'fluent-plugin-multi-format-parser', '~>1.0.0'
+gem 'oj', '~>2.18.1'
